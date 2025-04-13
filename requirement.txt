@@ -1,7 +1,0 @@
-langchain
-langchain-community
-transformers
-faiss-cpu
-sentence-transformers
-torch  # Required by transformers and sentence-transformers
-scikit-learn  # Required by sentence-transformers
