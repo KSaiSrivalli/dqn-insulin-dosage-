@@ -1,5 +1,7 @@
-gym==0.26.2
+gymnasium>=0.29  # Or the latest stable version
 numpy==1.24.4
-streamlit
-torch==2.0.1
+streamlit==1.28.2
+torch>=2.1
+torchaudio
+torchvision
 matplotlib
