@@ -1,6 +1,8 @@
+streamlit==1.28.2
 gym==0.26.2
 numpy==1.24.4
-torch==2.0.1
 matplotlib==3.7.1
+transformers==4.36.2
+torch==2.1.2
 
 
