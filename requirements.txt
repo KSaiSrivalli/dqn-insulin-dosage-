@@ -1,7 +1,7 @@
 streamlit==1.28.2
 gymnasium>=0.29
 numpy==1.24.4
-torch>=2.1.0  # Be more specific with the minimum version
-torchaudio>=2.1.0 # Match the torch version
-torchvision>=0.16.0 # Match the torch version
+torch>=2.2.0
+torchaudio>=2.2.0
+torchvision>=0.17.0
 matplotlib
